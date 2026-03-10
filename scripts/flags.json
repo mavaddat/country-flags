@@ -8,7 +8,7 @@
 		"ts-using": "2018-08-31 08:41:28 +0100"
 	},
 	"ae": {
-		"wiki-source": "File:File:Flag_of_the_United_Arab_Emirates.svg",
+		"wiki-source": "File:Flag_of_the_United_Arab_Emirates.svg",
 		"sources": [
 			"https://uaecabinet.ae/storage/app/public/uploads/content_category/publications/9c0edef9df68e08cb0ead6a8200189f9.pdf",
 			"https://uaecabinet.ae/en/publications"
@@ -330,8 +330,13 @@
 		"ts-using": "2018-08-31 08:41:28 +0100"
 	},
 	"er": {
-		"wiki-source": "File:<TODO>",
-		"ts-using": "2018-08-31 08:41:28 +0100"
+		"wiki-source": "File:Flag_of_Eritrea.svg",
+		"ts-using": "2023-08-07T15:41:42Z",
+		"sources": [
+			"https://en.wikipedia.org/wiki/File:Flag_of_Eritrea_(construction_sheet).svg",
+			"https://shabait.com/2009/10/01/eritrea-at-a-glance/",
+			"https://commons.wikimedia.org/wiki/File:Flag_of_Eritrea_Requirements.png"
+		]
 	},
 	"es": {
 		"wiki-source": "File:<TODO>",
@@ -469,7 +474,11 @@
 		"ts-using": "2018-08-31 08:41:28 +0100"
 	},
 	"gs": {
-		"wiki-source": "File:<TODO>",
+		"wiki-source": "File:Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg",
+		"sources": [
+			"https://web.archive.org/web/20150803043235/http://www.sgisland.gs/index.php/(g)heraldry?useskin=gov",
+			"https://www.college-of-arms.gov.uk/news-grants/newsletter/2006/item/55-june-2006-newsletter-no-9"
+		],
 		"ts-using": "2020-09-17 14:30:28 -0400"
 	},
 	"gt": {
@@ -1150,15 +1159,21 @@
 		"ts-using": "2018-08-31 08:41:28 +0100"
 	},
 	"sy": {
-		"wiki-source": "File:Flag_of_Syria.svg",
-		"ts-using": "2019-07-27T14:28:29Z"
+		"wiki-source": "File:Flag_of_Syria_(2025-).svg",
+		"sources": [
+			"http://www.dircost.unito.it/cs/docs/Siria%20franc.htm",
+			"https://syrianobserver.com/syrian-actors/north-press-obtains-draft-of-syrias-constitutional-declaration.html",
+			"https://kassioun.org/news/item/82565-2025"
+		],
+		"ts-using": "2025-01-21T20:26:44Z"
 	},
 	"sz": {
 		"wiki-source": "File:Flag_of_Eswatini.svg",
 		"sources": [
+			"https://www.gov.sz/index.php/national-symbols",
 			"https://web.archive.org/web/20140619201436/http://swaziland.org.tw/e12.html"
 		],
-		"ts-using": "2020-09-16 15:09:50 -0400"
+		"ts-using": "2025-05-21T22:01:16Z"
 	},
 	"tc": {
 		"wiki-source": "File:Flag_of_the_Turks_and_Caicos_Islands.svg",
